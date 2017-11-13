@@ -1,5 +1,6 @@
+class Solution:
+    # array 二维列表
     def Find(self, target, array):
-        # write code here
         rownum = len(array)
         # print(rownum)                 testing purpose
         colnum = len(array[0])
