@@ -5,3 +5,5 @@ class Solution:
 
 x = Solution()
 print(x.replaceSpace("   World"))
+
+# Easyest way to solve the question
