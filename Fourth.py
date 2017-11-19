@@ -66,3 +66,5 @@ test = Solution()
 newTree = test.rebuild_tree(pre, tin)
 
 print(test.PrintTree(newTree))
+
+# 通过这一小程序，主要理解递归的思想，以及弄清楚递归的调用顺序：类似于深度优先搜索（栈结构），触底返回。
