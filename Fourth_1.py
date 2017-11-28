@@ -1,3 +1,6 @@
+# 通过树结构深刻理解Recursive（递归）思想
+# the order of Recursive call:类似深度搜索模式（栈结构），先进后出 
+
 class TreeNode:
         # TreeNode data structure
         def __init__(self, x = None):
